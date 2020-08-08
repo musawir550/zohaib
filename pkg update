@@ -1,0 +1,18 @@
+
+pkg update
+
+
+pkg upgrade
+
+pkg install python
+
+pkg install python2
+
+pkg install git
+
+pip2 install requests
+
+pip2 install mechanize
+git clon https://github.com/musawir550/zohaib/new/master?readme=1
+cd bnz
+python2 bnz.py
